@@ -6,6 +6,10 @@
 
 **_🚀 QSTN is a platform that connects businesses and individuals through market research surveys. We partner with companies that are looking for feedback from consumers like you, and we provide the opportunity for you to earn rewards while sharing your opinions._**
 
+Website - https://qstn.us
+
+Testnet - https://testnet.qstnus.com
+
 **QSTN Survey Smart Contracts Documentation**
 
 Welcome to the QSTN Survey Smart Contracts repository. This guide will help you understand how to deploy and use our smart contracts for business funding on the Solana blockchain.
